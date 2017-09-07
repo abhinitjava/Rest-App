@@ -10,7 +10,6 @@ import javax.ws.rs.core.MediaType;
  */
 @Path("myresource")
 public class MyResource {
-	//add new commits
 
     /**
      * Method handling HTTP GET requests. The returned object will be sent
